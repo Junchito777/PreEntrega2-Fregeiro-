@@ -1,0 +1,28 @@
+[
+{"id": 1,"nombre": "Café en pocillo","picture":"img/cafepocillo.jpeg", "Precio": 200},
+{"id": 2,"nombre": "Café en jarrito","picture": "img/cafe-en-jarrito.jpg", "Precio":350},
+{"id": 3,"nombre": "Café doble","picture":"img/cafedoble.jpeg   ", "Precio": 500},
+{"id": 4,"nombre": "Cortado en pocillo","picture": "img/cortadopocillo.jpg", "Precio":250},
+{"id": 5,"nombre": "Cortado en jarrito","picture": "img/cortadojarrito.jpeg", "Precio":400},
+{"id": 6,"nombre": "Cortado doble","picture": "img/cortadodoble.jpg", "Precio":550},
+{"id": 7,"nombre": "Lágrima en pocillo","picture": "img/lagrimapocillo.jpeg", "Precio":250},
+{"id": 8,"nombre": "Lágrima en jarrito","picture": "img/lagrimajarrito.jpeg", "Precio":400},
+{"id": 9,"nombre": "Lágrima doble","picture": "img/lagrimadoble.jpeg", "Precio":550},
+{"id": 10,"nombre": "Café con leche","picture": "img/cafeconleche.jpeg", "Precio":600},
+{"id": 11,"nombre": "Tazón de café con leche","picture": "img/tazoncafeconleche.jpeg", "Precio":750},
+{"id": 12,"nombre": "Tazón lágrima","picture": "img/tazonlagrima.jpg", "Precio":750},
+{"id": 13,"nombre": "Capuccino","picture": "img/capuccino.webp", "Precio":860},
+{"id": 14,"nombre": "Limonada de menta y jengibre","picture": "img/limonadamenta.jpeg", "Precio":860},
+{"id": 15,"nombre": "Limonada de frutos rojos","picture": "img/limonadafrutos.jpeg", "Precio": 860},
+{"id": 16,"nombre": "Tostado de miga","picture": "img/tostadomiga.jpeg", "Precio": 900},
+{"id": 17,"nombre": "Tostado árabe","picture": "img/tostadoarabe.jpeg", "Precio": 900},
+{"id": 18,"nombre": "Lemon pie","picture": "img/lemonpie.jpeg", "Precio": 860},
+{"id": 19,"nombre": "Crumble de manzana","picture": "img/crumble.jpeg", "Precio": 860},
+{"id": 20,"nombre": "Rogel","picture": "img/rogel.jpeg", "Precio": 860},
+{"id": 21,"nombre": "Budin de limon","picture": "img/budinlimon.webp", "Precio": 860},
+{"id": 22,"nombre": "Budin de zanahoria","picture": "img/budinzanahoria.jpeg", "Precio": 860},
+{"id": 23,"nombre": "Budin de chocolate","picture": "img/budinchocolate.jpeg", "Precio": 860},
+{"id": 24,"nombre": "Marquise","picture": "img/marquise.jpeg", "Precio": 860},
+{"id": 25,"nombre": "Brownie con merengue","picture": "img/browniemerengue.jpg", "Precio": 860}
+
+]

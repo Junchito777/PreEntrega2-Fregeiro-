@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    list-style: none;
+    display: inline-block;
+    width: 100%;
+    padding-top: 40px;
+}
+.nav-item{
+    float: right;
+    width: 140px;
+    padding-right: 300px;
+}
+.home{
+    text-decoration: none;
+    color: white;
+}
+.home:hover{
+    color: black;
+    transition: 0.3s ease;
+}
+.contacto{
+    color: white;
+}
+.contacto:hover{
+    color: black;
+    transition: 0.3s ease;
+}
+.horario{
+    color: white;
+}
+.horario:hover{
+    color: black;
+    transition: 0.3s ease;
+}
+.nosotros{
+    color: white;
+}
+.nosotros:hover{
+    color: black;
+    transition: 0.3s ease;
+}
+.ubicacion{
+    color: white;
+}
+.ubicacion:hover{
+    color: black;
+    transition: 0.3s ease;
+}
+nav ul li:hover{
+    color:#fff;
+    transition: 0.3s ease;
+}
+
+body{
+    height: calc(1300px - 10px);
+    width: 100%;
+    background-image: url(img/opter-pour-un-cafe-en-grains-istock-com-romolotavani-215-1525078763.jpg);
+    background-size: cover;
+
+}
+
+.copyright{
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.redes{
+    text-align:end;
+    padding: 0;
+    color: #fff;
+    flex-wrap: wrap;
+}
+
+.redes i:hover{
+    color: black;
+    cursor:pointer;
+    transition: 0.3s ease;
+}
+.cafe{
+    display:inline-flex;
+    flex-wrap: wrap;
+
+}
+.productos{
+    padding: 4px;
+    text-align: center;
+    background-color: rgba(250, 235, 215, 0.63);
+    height: 350px;
+    margin: 11px;
+    width: 150px;
+    flex-wrap: wrap;
+}
+.productos h3{
+    color: black;
+    margin: 10px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.productos button{
+    color: black;
+    margin-top: auto;
+}
+.productos:hover{
+    color:black;
+    transition: 0.3s ease;
+    box-shadow: 0.5px 3px 2px black;
+    background-color: rgba(182, 121, 77, 0.877);
+}
+
+.navbar{
+    float: right;
+}
+
+.items{
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    padding-top: 40px;
+}
+.home{
+    text-decoration: none;
+    color: white;
+}
+.home:hover{
+    color: black;
+    transition: 0.3s ease;
+}
+.contacto{
+    color: white;
+}
+.contacto:hover{
+    color: black;
+    transition: 0.3s ease;
+}
+.nosotros{
+    color: white;
+}
+.nosotros:hover{
+    color: black;
+    transition: 0.3s ease;
+}
+.ubicacion{
+    color: white;
+}
+.ubicacion:hover{
+    color: black;
+    transition: 0.3s ease;
+}
+.items:hover{
+    color:#fff;
+    transition: 0.3s ease;
+}
+
+.copyright{
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.redes{
+    text-align: center;
+    padding: 0;
+    color: #fff;
+    flex-wrap: wrap;
+}
+
+.redes i:hover{
+    color: black;
+    cursor:pointer;
+    transition: 0.3s ease;
+}
+.cafe{
+    display:inline-flex;
+    flex-wrap: wrap;
+
+}
+
+.descripcion{
+    padding: 40px;
+    margin: 140px;
+    text-align: center;
+    background-color: rgba(250, 235, 215, 0.699);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-weight: bold;
+    flex-wrap: wrap;
+    color: rgb(63, 28, 3);
+}
+.horario{
+    color: white;
+}
+.horario:hover{
+    color: black;
+    transition: 0.3s ease;
+}
+.mail{
+    text-decoration: none;
+    color: rgb(63, 28, 3);
+}
+footer{
+    background-color: rgb(22, 22, 21);
+    font-size: 25px;
+    width: 100%;
+    max-width: 10000px;                                                                                                                                                                                                                                                                                                                                       
+    padding: 10px;
+    height: 317px;
+    flex-wrap: wrap;
+}
+.body-links{
+    height: 40%;
+}
